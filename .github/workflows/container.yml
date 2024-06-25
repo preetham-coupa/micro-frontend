@@ -2,8 +2,6 @@ name: cd-container
 
 on:
   push:
-    branch:
-      - main
     paths:
       - "container/**"
 

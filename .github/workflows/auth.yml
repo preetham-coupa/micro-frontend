@@ -2,8 +2,6 @@ name: cd-auth
 
 on:
   push:
-    branch:
-      - main
     paths:
       - "auth/**"
 

@@ -2,8 +2,6 @@ name: cd-dashboard
 
 on:
   push:
-    branch:
-      - main
     paths:
       - "dashboard/**"
 
